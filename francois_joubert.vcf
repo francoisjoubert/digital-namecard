@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Joubert;Francois;;;
+FN: Francois  Joubert 
+ORG:Resonate Cloud Services Limited;
+TITLE:CEO\nResonate Cloud Services Limited
+EMAIL;type=INTERNET;type=WORK;type=pref:francois.joubert@resonateservices.co.uk
+TEL;type=WORK;type=VOICE:+44 208 133 2300
+item1.ADR;type=WORK;type=pref:;;Russell Avenue\nLondon\,;;;N22 6PS;UK
+item1.X-ABADR:uk
+item2.URL;type=pref:resonateservices.co.uk
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
